@@ -1,0 +1,8 @@
+numpy
+pandas
+sklearn
+plotly>=4.5.2
+dash>=1.8.0
+dash_canvas
+opencv-python
+scikit-image
