@@ -8,7 +8,7 @@ Using this app, we visualize how neural networks act as feature extractors. Acro
 
 
 # Getting started
-Clone the library, then download the dataset and input assests from [here](), and make sure the extract the files dirctly into the directory of the app (ie, make sure it does not create seprate folder but installs the files directly inside the directory). \
+Clone the library, then download the dataset and input assests from [here](https://drive.google.com/file/d/1Q35O8_7aT5nsLCzyCyvkwQLe5mm6WES8/view?usp=sharing), and make sure the extract the files dirctly into the directory of the app (ie, make sure it does not create seprate folder but installs the files directly inside the directory). \
 Proceed to install the dependency using - 
 ```sh
 pip install -r requirements.txt
